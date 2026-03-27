@@ -213,4 +213,4 @@ Bronze tier/
 
 ---
 
-*Built for Hackathon 0 | Supreme Traders | 2026-03-26*
+*Built for Hackathon 0 | Ali Shahid
